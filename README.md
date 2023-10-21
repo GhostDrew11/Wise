@@ -41,3 +41,11 @@ A web application allowing users to add their past trip on a list displayed next
    ```sh
        npm run build
    ```
+
+2. Use to fake account to manipulate the app
+   ```sh
+       email address: armel@basketfy.com
+   ```
+   ```sh
+       password: yobitch
+   ```
