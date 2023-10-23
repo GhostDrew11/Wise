@@ -34,7 +34,7 @@ A web application allowing users to add their past trip on a list displayed next
        npm run dev
    ```
 
-## Building for production and usage
+## Building for production and execution
 
 1. Generate production build
 
@@ -42,10 +42,12 @@ A web application allowing users to add their past trip on a list displayed next
        npm run build
    ```
 
-2. Use to fake account to manipulate the app
+2. Use this fake account to test the app
+
    ```sh
        email address: armel@basketfy.com
    ```
+
    ```sh
        password: yobitch
    ```
